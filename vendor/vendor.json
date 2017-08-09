@@ -1,0 +1,71 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "fxJNvbMHwBTdAPDLXgZinzAqLuc=",
+			"path": "github.com/Unknwon/com",
+			"revision": "0db4a625e949e956314d7d1adea9bf82384cc10c",
+			"revisionTime": "2017-02-13T07:20:14Z"
+		},
+		{
+			"checksumSHA1": "xftDKvPBNTTuGGZuhKKEY4Vprc0=",
+			"path": "github.com/alecthomas/kingpin",
+			"revision": "5a61528fdeadca0e82d63212021704e38c05330a",
+			"revisionTime": "2017-06-19T05:49:53Z"
+		},
+		{
+			"checksumSHA1": "p2E6e3igHrAO+DPZPb/5s+dyNW8=",
+			"path": "github.com/alecthomas/template",
+			"revision": "a0175ee3bccc567396460bf5acd36800cb10c49c",
+			"revisionTime": "2016-04-05T07:15:01Z"
+		},
+		{
+			"checksumSHA1": "j258GVxrs5Kv6o9lwUbK+KOgcNY=",
+			"path": "github.com/alecthomas/template/parse",
+			"revision": "a0175ee3bccc567396460bf5acd36800cb10c49c",
+			"revisionTime": "2016-04-05T07:15:01Z"
+		},
+		{
+			"checksumSHA1": "FB8yvaMazDScE5tkGt7/UG04iHU=",
+			"path": "github.com/alecthomas/units",
+			"revision": "2efee857e7cfd4f3d0138cc3cbb1b4966962b93a",
+			"revisionTime": "2015-10-22T06:55:26Z"
+		},
+		{
+			"checksumSHA1": "UIUYZ7sjssgkTeF0vCksWLCJhss=",
+			"path": "github.com/go-macaron/binding",
+			"revision": "ac54ee249c27dca7e76fad851a4a04b73bd1b183",
+			"revisionTime": "2017-06-11T06:58:19Z"
+		},
+		{
+			"checksumSHA1": "16YW7XYD4QwN5hf94NBhR70r858=",
+			"path": "github.com/go-macaron/inject",
+			"revision": "d8a0b8677191f4380287cfebd08e462217bac7ad",
+			"revisionTime": "2016-06-27T17:00:12Z"
+		},
+		{
+			"checksumSHA1": "4mai1Q1zl5QTW2VwJnfQ6r/vlJw=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "a69d9f6de432e2c6b296a947d8a5ee88f68522cf",
+			"revisionTime": "2017-07-18T20:23:41Z"
+		},
+		{
+			"path": "golang.org/x/crypto/pbkdf2",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "fsEd7lVII5CYULpKj0Us2H3ONaM=",
+			"path": "gopkg.in/ini.v1",
+			"revision": "d3de07a94d22b4a0972deb4b96d790c2c0ce8333",
+			"revisionTime": "2017-06-02T20:46:24Z"
+		},
+		{
+			"checksumSHA1": "KVyOyZnK1Iz520kYV++0XQoD3aA=",
+			"path": "gopkg.in/macaron.v1",
+			"revision": "a325110f8b392bce3e5cdeb8c44bf98078ada3be",
+			"revisionTime": "2017-02-13T09:12:08Z"
+		}
+	],
+	"rootPath": "github.com/diablowu/nbridge"
+}
